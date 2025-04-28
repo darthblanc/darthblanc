@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on some utility scripts.
+- 👯 I’m looking to collaborate on cool projects in mobile and web design.
+- 😄 Pronouns: He/Him.
