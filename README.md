@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Check out my website: https://clement-andi-edet.netlify.app/.
-- 🌱 I’m currently working on a web drawing web application.
+- 🌱 I’m currently working on:
+      -  A Web Drawing Application.
+      -  A Chrome Extension
 - 👯 I’m looking to collaborate on cool projects in mobile and web design.
 - 😄 Pronouns: He/Him.
