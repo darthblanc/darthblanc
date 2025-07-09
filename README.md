@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,react,nodejs,flutter,html,css,jest,postman,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws&perline=10)](https://skillicons.dev)
 
+<!--
+![My Stats](https://github-readme-stats.vercel.app/api?username=darthblanc&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthblanc&layout=compact&theme=dark&exclude_repo=repo-to-hide)
+-->
+
 ```
       _            _   _     _     _                  
    __| | __ _ _ __| |_| |__ | |__ | | __ _ _ __   ___ 
