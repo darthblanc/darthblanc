@@ -21,3 +21,14 @@ Here are some ideas to get you started:
       -  A Chrome Extension  
 - 👯 I’m looking to collaborate on cool projects in mobile and web design.
 - 😄 Pronouns: He/Him.
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,nodejs,flutter,html,css,jest,postman,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws&perline=10)](https://skillicons.dev)
+
+```
+      _            _   _     _     _                  
+   __| | __ _ _ __| |_| |__ | |__ | | __ _ _ __   ___ 
+  / _` |/ _` | '__| __| '_ \| '_ \| |/ _` | '_ \ / __|
+ | (_| | (_| | |  | |_| | | | |_) | | (_| | | | | (__ 
+  \__,_|\__,_|_|   \__|_| |_|_.__/|_|\__,_|_| |_|\___|
+                                                      
+```
