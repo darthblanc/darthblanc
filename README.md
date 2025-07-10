@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on cool projects in mobile and web design.
 - 😄 Pronouns: He/Him.
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,react,nodejs,flutter,html,css,jest,postman,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,go,react,nodejs,flutter,html,css,jest,postman,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws&perline=10)](https://skillicons.dev)
 
 <!--
 ![My Stats](https://github-readme-stats.vercel.app/api?username=darthblanc&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
