@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Check out my website: https://clement-andi-edet.netlify.app/.
-- 🌱 I’m currently working on:  
-      -  A Web Drawing Application.  
-      -  A Chrome Extension  
-- 👯 I’m looking to collaborate on cool projects in mobile and web design.
+- 👯 I’m looking to collaborate on cool projects in mobile, web design, and ML.
 - 😄 Pronouns: He/Him.
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,go,react,nodejs,flutter,html,css,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws,firebase,redis,figma&perline=10)](https://skillicons.dev)
