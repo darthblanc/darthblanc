@@ -8,7 +8,7 @@
   \__,_|\__,_|_|   \__|_| |_|_.__/|_|\__,_|_| |_|\___|
 ```
 
-# 👋 Hi, I'm Clement Andi Edet
+# 👋 Hi, I'm Clement-Andi Edet
 
 ### Software Developer | Mobile & Web Enthusiast | ML Explorer
 
