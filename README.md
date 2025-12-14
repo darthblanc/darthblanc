@@ -48,11 +48,13 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 ### Backend & Mobile
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Machine Learning & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
@@ -81,10 +83,12 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 ---
 
-## 💼 What I'm Working On
+### 💼 What I'm Working On
 
-- 🔨 Building innovative solutions with modern web and mobile technologies
-- 🧠 Exploring machine learning applications in real-world scenarios
+- 🔨 Building scalable APIs with FastAPI and modern backend architectures
+- 🧠 Developing AI-powered applications using LangChain and LLMs
+- 🤖 Exploring machine learning applications in real-world scenarios
+- 📱 Creating cross-platform mobile experiences with Flutter
 - 🌱 Contributing to open-source projects
 - 📚 Continuously learning and staying updated with the latest tech trends
 
@@ -94,9 +98,11 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 I'm always excited to work on:
 
+- 🚀 **API Development** - Building high-performance REST APIs with FastAPI
+- 🤖 **AI/LLM Applications** - LangChain integrations, chatbots, and intelligent systems
 - 📱 **Mobile Applications** - Flutter, React Native, or native development
 - 🌐 **Web Projects** - Full-stack applications with modern frameworks
-- 🤖 **Machine Learning** - Data science, predictive models, and AI applications
+- 🧠 **Machine Learning** - Data science, predictive models, and AI applications
 - 🎨 **UI/UX Design** - Creating beautiful and intuitive user experiences
 
 Feel free to reach out if you have an interesting project or just want to chat about tech!
@@ -105,6 +111,4 @@ Feel free to reach out if you have an interesting project or just want to chat a
 
 ## 🌟 Featured Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,go,react,nodejs,flutter,html,css,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws,firebase,redis,figma&perline=10)](https://skillicons.dev)
-
----
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,go,react,nodejs,fastapi,flutter,html,css,pytorch,tensorflow,sklearn,anaconda,windows,ubuntu,gcp,aws,firebase,redis,figma&perline=11)](https://skillicons.dev)
