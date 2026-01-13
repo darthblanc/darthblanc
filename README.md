@@ -73,15 +73,6 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darthblanc&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ### 💼 What I'm Working On
 
