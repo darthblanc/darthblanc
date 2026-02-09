@@ -25,7 +25,7 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 - 🌐 **Portfolio:** [clement-andi-edet.netlify.app](https://clement-andi-edet.netlify.app/)
 - 🤝 **Open to Collaboration:** Cool projects in mobile, web design, and ML
-- 💡 **Currently Exploring:** Advanced ML techniques and cross-platform development
+- 💡 **Currently Exploring:** Agentic AI and its use cases
 - 😄 **Pronouns:** He/Him
 - 📫 **Let's Connect:** Open to interesting projects and discussions!
 
@@ -76,11 +76,7 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 ### 💼 What I'm Working On
 
-- 🔨 Building scalable APIs with FastAPI and modern backend architectures
-- 🧠 Developing AI-powered applications using LangChain and LLMs
-- 🤖 Exploring machine learning applications in real-world scenarios
-- 📱 Creating cross-platform mobile experiences with Flutter
-- 🌱 Contributing to open-source projects
+- 🧠 Developing Agentic applications using LangChain and LLMs
 - 📚 Continuously learning and staying updated with the latest tech trends
 
 ---
@@ -89,12 +85,10 @@ I'm a passionate developer with a love for building innovative solutions across 
 
 I'm always excited to work on:
 
-- 🚀 **API Development** - Building high-performance REST APIs with FastAPI
-- 🤖 **AI/LLM Applications** - LangChain integrations, chatbots, and intelligent systems
+- 🤖 **Agentic Systems** - LangChain integrations, chatbots, and intelligent systems
 - 📱 **Mobile Applications** - Flutter, React Native, or native development
-- 🌐 **Web Projects** - Full-stack applications with modern frameworks
+- 🌐 **Web Applications** - Full-stack applications with modern frameworks
 - 🧠 **Machine Learning** - Data science, predictive models, and AI applications
-- 🎨 **UI/UX Design** - Creating beautiful and intuitive user experiences
 
 Feel free to reach out if you have an interesting project or just want to chat about tech!
 
