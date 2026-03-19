@@ -10,11 +10,13 @@
 
 # Clement-Andi Edet
 
-### Backend Engineer · Agentic AI · LLM Systems
+### I build things that process data, reason over documents, and ship on time.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://clement-andi-edet.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-andi-edet/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthblanc)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darthblanc&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
@@ -29,7 +31,17 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 - 🤖 **Focus:** Agentic AI, RAG pipelines, LLM orchestration, backend data systems
 - 🧠 **Research background:** NLP — Word2Vec, KMeans clustering, prompt engineering, LLM evaluation
 - ⚡ **Currently building:** AI agents — local open-source models, cloud APIs, whatever fits the problem
-- 🎓 **BS Computer Science, University of Dallas** — Magna Cum Laude, 3.95 GPA (Major), Phi Beta Kappa
+- 🎓 **BS Computer Science, University of Dallas** — Magna Cum Laude, 3.95 GPA, Phi Beta Kappa
+- 🏆 **Competitive programming:** [LeetCode](https://leetcode.com/u/DarthBlanc/) · [Kattis](https://open.kattis.com/users/clement-andi-edet)
+
+---
+
+## Research
+
+**[Optimizing clustering of CDR3 sequences using natural language processing, Word2Vec, and KMeans](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1623488/full)**
+*Frontiers in Bioinformatics, Vol. 5, 2025*
+
+Applied Word2Vec embeddings, PCA, and KMeans clustering to T-cell receptor CDR3 sequences to identify immune activation patterns in ARDS patients vs. healthy controls. Presented at the 20th Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS).
 
 ---
 
