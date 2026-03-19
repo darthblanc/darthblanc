@@ -10,7 +10,7 @@
 
 # Clement-Andi Edet
 
-### I build things that process data, reason over documents, and ship on time.
+### I like hard problems, clean systems, and the occasional rabbit hole.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://clement-andi-edet.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-andi-edet/)
