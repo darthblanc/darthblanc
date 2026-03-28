@@ -31,7 +31,7 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 - 🤖 **Focus:** Agentic AI, RAG pipelines, LLM orchestration, backend data systems
 - 🧠 **Research background:** NLP — Word2Vec, KMeans clustering, prompt engineering, LLM evaluation
 - ⚡ **Currently building:** AI agents — local open-source models, cloud APIs, whatever fits the problem
-- 🎓 **BS Computer Science, University of Dallas** — Magna Cum Laude, 3.95 GPA, Phi Beta Kappa
+- 🎓 **BS Computer Science, University of Dallas** — Magna Cum Laude, Phi Beta Kappa
 - 🏆 **Competitive programming:** [LeetCode](https://leetcode.com/u/DarthBlanc/) · [Kattis](https://open.kattis.com/users/clement-andi-edet)
 
 ---
