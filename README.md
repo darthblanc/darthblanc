@@ -26,11 +26,11 @@ I build backend systems and agentic AI pipelines — things that process data at
 
 I move fast, own full cycles, and tend to automate whatever slows things down.
 
-- 🤖 **Focus:** Agentic AI, RAG pipelines, LLM orchestration, backend data systems
-- 🧠 **Research background:** NLP — Word2Vec, KMeans clustering, prompt engineering, LLM evaluation
-- ⚡ **Currently building:** AI agents — local open-source models, cloud APIs, whatever fits the problem
-- 🎓 **BS Computer Science, University of Dallas** — Magna Cum Laude, Phi Beta Kappa
-- 🏆 **Competitive programming:** [LeetCode](https://leetcode.com/u/DarthBlanc/) · [Kattis](https://open.kattis.com/users/clement-andi-edet)
+- **Focus:** Agentic AI, RAG pipelines, LLM orchestration, backend data systems
+- **Research background:** NLP — Word2Vec, KMeans clustering, prompt engineering, LLM evaluation
+- **Currently building:** AI agents — local open-source models, cloud APIs, whatever fits the problem
+- **Education:** BS Computer Science, University of Dallas — Magna Cum Laude, Phi Beta Kappa
+- **Competitive programming:** [LeetCode](https://leetcode.com/u/DarthBlanc/) · [Kattis](https://open.kattis.com/users/clement-andi-edet)
 
 ---
 
@@ -45,21 +45,11 @@ Applied Word2Vec embeddings, PCA, and KMeans clustering to T-cell receptor CDR3 
 
 ## Featured Projects
 
-### 🗂️ [Agentic File Explorer](https://github.com/darthblanc/agentic-file-explorer)
-A locally-running AI agent that navigates, reads, writes, and reasons over a file system through natural language.
+**[Anansi](https://github.com/darthblanc/anansi)** — LangGraph pipeline that quizzes you on your own wiki using extended thinking
 
-- ReAct agent loop with multi-step tool use
-- Modular tool architecture (BFS/DFS search, directory ops, file I/O)
-- Short-term memory + automatic context compaction for long sessions
-- Runs on-device via Ollama + Qwen3:8b — swappable with any Ollama-compatible model
+**[Agentic File Explorer](https://github.com/darthblanc/agentic-file-explorer)** — ReAct agent that navigates and reasons over a file system via natural language
 
-### ✈️ [AI Travel Agent](https://www.youtube.com/watch?v=vkR0Pci_O4I) *(demo)*
-A RAG-powered flight search assistant with real-time API integration.
-
-- Retrieval-augmented generation for dynamic flight lookup
-- Webhook + API communication pipeline
-- Asynchronous pipelines serving results based on conversation state
-- OpenAI voice API integration for a fully voice-interactive experience
+**[AI Travel Agent](https://www.youtube.com/watch?v=vkR0Pci_O4I)** — Hackathon runner-up: conversational flight search agent that parses intent from dialogue, queries Amadeus in real time via webhooks, and surfaces results with voice interaction
 
 ---
 
