@@ -39,8 +39,7 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 **[Optimizing clustering of CDR3 sequences using natural language processing, Word2Vec, and KMeans](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1623488/full)**
 *Frontiers in Bioinformatics, Vol. 5, 2025*
 
-Applied Word2Vec embeddings, PCA, and KMeans clustering to T-cell receptor CDR3 sequences to identify immune activation patterns in ARDS patients vs. healthy controls. Presented at the 20th Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS).
-
+Applied Word2Vec embeddings, PCA, and KMeans clustering to T-cell receptor CDR3 sequences to identify immune activation patterns in ARDS patients vs. healthy controls.
 ---
 
 ## Featured Projects
