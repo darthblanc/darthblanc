@@ -22,12 +22,11 @@
 
 ## About Me
 
-I build backend systems and agentic AI pipelines — things that process data at scale, reason over documents, and get things done without hand-holding.
+I build backend systems and agentic AI pipelines.
 
 I move fast, own full cycles, and tend to automate whatever slows things down.
 
 - **Focus:** Agentic AI, RAG pipelines, LLM orchestration, backend data systems
-- **Research background:** NLP — Word2Vec, KMeans clustering, prompt engineering, LLM evaluation
 - **Currently building:** AI agents — local open-source models, cloud APIs, whatever fits the problem
 - **Education:** BS Computer Science, University of Dallas — Magna Cum Laude, Phi Beta Kappa
 - **Competitive programming:** [LeetCode](https://leetcode.com/u/DarthBlanc/) · [Kattis](https://open.kattis.com/users/clement-andi-edet)
@@ -42,6 +41,8 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 ---
 
 ## Featured Projects
+
+**[OrientBench](https://github.com/darthblanc/OrientBench)** — Evaluation tool that measures how CSV layout affects LLM table-reading accuracy - [try it out!](https://orientbench.netlify.app/)
 
 **[Anansi](https://github.com/darthblanc/anansi)** — LangGraph pipeline that quizzes you on your own wiki using extended thinking
 
@@ -83,8 +84,7 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 ## What I'm Interested In
 
 - Agentic systems that actually work reliably in production
-- LLM pipelines for document understanding and extraction
+- LLM and Agent evaluation
 - Backend architecture for data-intensive applications
-- Picking the right model deployment for the right problem — local, cloud, or hybrid
 
 ---
