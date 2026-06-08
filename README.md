@@ -12,7 +12,7 @@
 
 ### I like hard problems, clean systems, and the occasional rabbit hole.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://clement-andi-edet.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://clementandiedet.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-andi-edet/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darthblanc)
 
@@ -39,7 +39,6 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 **[Optimizing clustering of CDR3 sequences using natural language processing, Word2Vec, and KMeans](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1623488/full)**
 *Frontiers in Bioinformatics, Vol. 5, 2025*
 
-Applied Word2Vec embeddings, PCA, and KMeans clustering to T-cell receptor CDR3 sequences to identify immune activation patterns in ARDS patients vs. healthy controls.
 ---
 
 ## Featured Projects
