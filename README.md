@@ -48,6 +48,8 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 
 **[Agentic File Explorer](https://github.com/darthblanc/agentic-file-explorer)** — ReAct agent that navigates and reasons over a file system via natural language
 
+**[Talking Claude](https://github.com/darthblanc/talking-claude)** — Claude Code hook that reads out agent responses using Edge TTS.
+
 **[AI Travel Agent](https://www.youtube.com/watch?v=vkR0Pci_O4I)** — Hackathon runner-up: conversational flight search agent that parses intent from dialogue, queries Amadeus in real time via webhooks, and surfaces results with voice interaction
 
 ---
