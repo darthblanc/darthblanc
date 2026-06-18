@@ -40,15 +40,8 @@ I move fast, own full cycles, and tend to automate whatever slows things down.
 
 ---
 
-## Featured Projects
-
-**[fsagent](https://github.com/darthblanc/fsagent)** - Model agnostic harness + ReAct agent that navigates and reasons over a file system via natural language
-
-**[OrientBench](https://github.com/darthblanc/OrientBench)** — Evaluation tool that measures how CSV layout affects LLM table-reading accuracy - [try it out!](https://orientbench.netlify.app/)
-
-**[Anansi](https://github.com/darthblanc/anansi)** — LangGraph pipeline that quizzes you on your own wiki using extended thinking
-
-**[Agentic File Explorer](https://github.com/darthblanc/agentic-file-explorer)** — ReAct agent that navigates and reasons over a file system via natural language
+## Also building
+*A couple of smaller things that don't have their own pinned repo:*
 
 **[Talking Claude](https://github.com/darthblanc/talking-claude)** — Claude Code hook that reads out agent responses using Edge TTS
 
